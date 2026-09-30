@@ -13,3 +13,4 @@ Code for my procrastination robot, which insults me if I'm procrastinating
 - YOLO
 - COCO's dataset
 - GTTS
+- Calcurse
