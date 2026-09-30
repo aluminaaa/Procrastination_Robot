@@ -7,5 +7,9 @@ Code for my procrastination robot, which insults me if I'm procrastinating
 
 - I usually run this on raspberry pi terminal
 
-# Built With 
-Python
+# Built With/Things used
+- Python
+- OpenCV
+- YOLO
+- COCO's dataset
+- GTTS
