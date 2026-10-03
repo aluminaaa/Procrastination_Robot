@@ -10,7 +10,5 @@ Code for my procrastination robot, which insults me if I'm procrastinating
 # Built With/Things used
 - Python
 - OpenCV
-- YOLO
-- COCO's dataset
 - GTTS
 - Calcurse
